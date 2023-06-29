@@ -1,0 +1,14 @@
+Num of users     : 5000
+Num of skills    : 1886
+Num of questions : 12150
+Num of KCs       : 189
+Num of exercises : 713631
+
+(4k+ 1)-th row, length of user sequence
+(4k+ 2)-th row, skill      :        0~    1885 column
+(4k+ 3)-th row, problem    :     1886~   14035 column
+(4k+ 4)-th row, correct    :    14036~   14037 column
+
+In total      4 rows per user.
+In total  14038 columns.
+
